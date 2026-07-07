@@ -24,14 +24,10 @@ I work across the **entire stack** — crafting responsive, accessible interface
 **React & Next.js**, and designing robust, well-structured backends with **NestJS & Node.js**.
 
 - 🔭 &nbsp;Building **multi-tenant SaaS platforms** end-to-end
-- 🧱 &nbsp;Focused on **clean architecture**, **reusable components** &
--  **scalable systems**
-- ⚙️ &nbsp;**Full-stack:** React / Next.js on the front · NestJS / Node.js
--  on the back
-- 🧠 &nbsp;Strong with **TypeScript**, relational & NoSQL databases,
--  and modern DevOps
-- 🌱 &nbsp;Currently leveling up in **Architecture, DDD, Microservices &
--  Kubernetes**
+- 🧱 &nbsp;Focused on **clean architecture**, **reusable components** & **scalable systems**
+- ⚙️ &nbsp;**Full-stack:** React / Next.js on the front · NestJS / Node.js on the back
+- 🧠 &nbsp;Strong with **TypeScript**, relational & NoSQL databases, and modern DevOps
+- 🌱 &nbsp;Currently leveling up in **Architecture, DDD, Microservices & Kubernetes**
 
 <br clear="right"/>
 
