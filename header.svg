@@ -1,0 +1,50 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ahmad Alhraki, Software Engineer and Full-Stack Developer">
+  <defs>
+    <clipPath id="r"><rect width="1200" height="340" rx="22"/></clipPath>
+    <radialGradient id="a1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.26"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="a2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.22"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="a3" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6366F1" stop-opacity="0.42"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.72"><stop offset="0.5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.6"/></radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#A9B4CE"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0"/><stop offset="0.22" stop-color="#2DD4BF" stop-opacity="0.8"/><stop offset="0.7" stop-color="#38BDF8" stop-opacity="0.45"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8FA0C0" stroke-opacity="0.045" stroke-width="1"/></pattern>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="1200" height="340" fill="#0A0B11"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <ellipse cx="120" cy="0" rx="440" ry="300" fill="url(#a1)"/>
+    <ellipse cx="680" cy="380" rx="560" ry="300" fill="url(#a2)"/>
+    <ellipse cx="1090" cy="96" rx="320" ry="260" fill="url(#a3)"/>
+    <rect width="1200" height="340" fill="url(#vig)"/>
+
+    <!-- corner orbit accent -->
+    <g fill="none">
+      <circle cx="1095" cy="96" r="98" stroke="#38BDF8" stroke-opacity="0.10" stroke-width="1.2"/>
+      <circle cx="1095" cy="96" r="64" stroke="#5EEAD4" stroke-opacity="0.30" stroke-width="1.4"/>
+    </g>
+    <circle cx="1095" cy="96" r="15" fill="#2DD4BF" opacity="0.16"/>
+    <circle cx="1095" cy="96" r="7" fill="#2DD4BF"/>
+    <circle cx="1132" cy="44" r="16" fill="#38BDF8" opacity="0.16"/>
+    <circle cx="1132" cy="44" r="6" fill="#7DD3FC"/>
+    <circle cx="1003" cy="63" r="4.5" fill="#818CF8"/>
+
+    <!-- kicker -->
+    <rect x="89.5" y="80" width="9" height="9" rx="2" transform="rotate(45 94 84.5)" fill="#2DD4BF"/>
+    <text x="112" y="90" font-family="JetBrains Mono Medium, monospace" font-size="15" letter-spacing="5" fill="#5EEAD4">SOFTWARE ENGINEER</text>
+
+    <!-- name -->
+    <text x="87" y="172" font-family="SoraDisplay, sans-serif" font-size="74" letter-spacing="-2.5" fill="url(#name)">Ahmad Alhraki</text>
+
+    <!-- role -->
+    <text x="90" y="214" font-family="SoraSemi, sans-serif" font-size="26" fill="#D7DEEC">Full-Stack Developer</text>
+
+    <!-- tagline -->
+    <text x="91" y="248" font-family="JetBrains Mono Medium, monospace" font-size="15" fill="#7C8699">Building scalable, production-grade SaaS platforms.</text>
+
+    <!-- stat strip -->
+    <text x="91" y="292" font-family="JetBrains Mono Medium, monospace" font-size="13" letter-spacing="2" fill="#63728C">TYPESCRIPT<tspan fill="#33405A">   ·   </tspan>REACT<tspan fill="#33405A">   ·   </tspan>NEXT.JS<tspan fill="#33405A">   ·   </tspan>NESTJS<tspan fill="#33405A">   ·   </tspan>NODE.JS</text>
+
+    <rect x="90" y="312" width="1020" height="1.5" fill="url(#hair)"/>
+  </g>
+</svg>
