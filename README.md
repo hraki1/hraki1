@@ -1,13 +1,17 @@
 <!-- ===== HERO / HEADER ===== -->
-<!-- IMPORTANT: commit header.png to your repo root, next to this README -->
+<!-- IMPORTANT: commit hero.png to your repo root, next to this README -->
 <p align="center">
   <img width="100%" src="./hero.png" alt="Ahmad Alhraki — Software Engineer & Full-Stack Developer"/>
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=hraki1&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
+
+<br/>
+
 <!-- ===== ABOUT ===== -->
 ## 👋 About Me
 
@@ -75,12 +79,12 @@ I work across the **entire stack** — crafting responsive, accessible interface
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hraki1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hraki1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hraki1&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hraki1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hraki1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs"/>
 </p>
 
 <br/>
