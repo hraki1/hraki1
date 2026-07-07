@@ -9,7 +9,6 @@
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=hraki1&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
-<br/>
 
 <!-- ===== ABOUT ===== -->
 ## 👋 About Me
