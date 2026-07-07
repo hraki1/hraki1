@@ -1,7 +1,7 @@
 <!-- ===== HERO / HEADER ===== -->
-<!-- Commit header.svg to your repo root alongside this README for the banner to render -->
+<!-- IMPORTANT: commit header.png to your repo root, next to this README -->
 <p align="center">
-  <img width="100%" src="./header.svg" alt="Ahmad Alhraki — Software Engineer & Full-Stack Developer"/>
+  <img width="100%" src="./header.png" alt="Ahmad Alhraki — Software Engineer & Full-Stack Developer"/>
 </p>
 
 <p align="center">
