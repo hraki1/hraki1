@@ -79,13 +79,8 @@ I work across the **entire stack** — crafting responsive, accessible interface
 ## 📊 GitHub Stats
 
 <p align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hraki1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hraki1&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
-
-<p align="center">
-
-</p> 
 
 <br/>
 
