@@ -84,7 +84,7 @@ I work across the **entire stack** — crafting responsive, accessible interface
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hraki1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs"/>
+
 </p> 
 
 <br/>
