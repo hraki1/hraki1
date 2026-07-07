@@ -1,15 +1,13 @@
 <!-- ===== HERO / HEADER ===== -->
 <!-- IMPORTANT: commit header.png to your repo root, next to this README -->
-
 <p align="center">
-  <img width="100%" src="./header.png" alt="Ahmad Alhraki — Software Engineer & Full-Stack Developer"/>
+  <img width="100%" src="./hero.png" alt="Ahmad Alhraki — Software Engineer & Full-Stack Developer"/>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=hraki1&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
-
 <!-- ===== ABOUT ===== -->
 ## 👋 About Me
 
