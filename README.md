@@ -20,8 +20,9 @@
 I'm a **Software Engineer** and **Full-Stack Developer** with **2+ years** of experience building
 scalable web applications and **multi-tenant SaaS platforms**.
 
-I work across the **entire stack** — crafting responsive, accessible interfaces with
-**React & Next.js**, and designing robust, well-structured backends with **NestJS & Node.js**.
+I work across the **entire stack** — crafting responsive, accessible
+interfaces with **React & Next.js**, and designing robust,
+well-structured backends with **NestJS & Node.js**.
 
 - 🔭 &nbsp;Building **multi-tenant SaaS platforms** end-to-end
 - 🧱 &nbsp;Focused on **clean architecture** & **scalable systems**
