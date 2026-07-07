@@ -15,7 +15,7 @@
 <!-- ===== ABOUT ===== -->
 ## 👋 About Me
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
+<img align="right" width="35%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
 
 I'm a **Software Engineer** and **Full-Stack Developer** with **2+ years** of experience building
 scalable web applications and **multi-tenant SaaS platforms**.
