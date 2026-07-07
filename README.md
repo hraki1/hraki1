@@ -18,7 +18,7 @@
 <img align="right" width="38%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
 
 I'm a **Software Engineer** and **Full-Stack Developer** with **2+ years** of experience building
-scalable, production-grade web applications and **multi-tenant SaaS platforms**.
+scalable web applications and **multi-tenant SaaS platforms**.
 
 I work across the **entire stack** — crafting responsive, accessible interfaces with
 **React & Next.js**, and designing robust, well-structured backends with **NestJS & Node.js**.
