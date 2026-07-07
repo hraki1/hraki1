@@ -1,8 +1,7 @@
 <!-- ===== HERO / HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=220&section=header&text=Ahmad%20Alhraki&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=22&descAlignY=58" alt="header"/>
-
+<!-- Commit header.svg to your repo root alongside this README for the banner to render -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=680&lines=Software+Engineer+%26+Full-Stack+Developer;I+build+scalable+web+apps%2C+end-to-end;Frontend+with+React+%26+Next.js;Backend+with+NestJS+%26+Node.js;2%2B+years+shipping+multi-tenant+SaaS" alt="Typing SVG" />
+  <img width="100%" src="./header.svg" alt="Ahmad Alhraki — Software Engineer & Full-Stack Developer"/>
 </p>
 
 <p align="center">
