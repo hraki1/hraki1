@@ -28,7 +28,6 @@ well-structured backends with **NestJS & Node.js**.
 - 🧱 &nbsp;Focused on **clean architecture** & **scalable systems**
 - ⚙️ &nbsp;**Full-stack:** React / Next.js · NestJS / Node.js
 - 🧠 &nbsp;Strong with **TypeScript**, relational & NoSQL databases
-- 🌱 &nbsp;Currently leveling up in **Architecture, Devops
 
 <br clear="right"/>
 
