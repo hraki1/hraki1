@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-al-hraki-7ba2b2218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://hraki1.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-al-hraki-7ba2b2218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://hraki1.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=hraki1&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -88,8 +88,8 @@ well-structured backends with **NestJS & Node.js**.
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-al-hraki-7ba2b2218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://hraki1.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-al-hraki-7ba2b2218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://hraki1.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=120&section=footer" alt="footer"/>
